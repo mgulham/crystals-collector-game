@@ -1,0 +1,80 @@
+body {
+    width: 960px;
+    background-image: url(../images/papyrus.png);
+    background-size: 100%;
+    height: auto;
+}
+
+.headerLargeBrown {
+    color: white;
+    background-color: burlywood;
+    padding: 10px 5px 10px 20px;
+    margin: 10px 10px 10px 10px;
+    width: 40%;
+}
+
+.gameInstructions {
+    background-color:beige;
+    padding: 20px 20px 20px 20px;
+    margin: 5px 0px 5px 10px;
+    width: 60%;
+    height: 50%;
+    font-size: 14px;
+}
+#randomNumber {
+    background-color: aqua;
+    color: purple;
+    padding: 15px 70px 10px 120px;
+    width: 30%;   
+    height: 100px;
+    font-size: 50px;
+    margin: 8px;
+    float: left;
+}
+
+.winsandlosses {
+    background-color: lightblue;
+    color:navy;
+    padding: 15px 20px 10px 100px;
+    width: 29%;     
+    height: 100px;
+    font-size: 20px;
+    margin: 8px;
+    float: left;
+}
+.crystals{
+    float: left;    
+    margin: 5px;
+}
+.red {
+    width:135px;
+    height:100px;
+    margin: 5px;
+}
+.aqua {
+    width:135px;
+    height:100px;
+    margin: 5px;
+}
+.green {
+    width:135px;
+    height:100px;
+    margin: 5px;
+}
+.purple {
+    width:135px;
+    height:100px;
+    margin: 5px;
+    }
+.totalScore {
+    float: inline-start
+}
+#score {
+    background-color: teal;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    width: 100%;
+    margin-top: 15px;   
+
+}

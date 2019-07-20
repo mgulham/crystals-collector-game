@@ -46,22 +46,22 @@ body {
     float: left;    
     margin: 5px;
 }
-.red {
+#red {
     width:135px;
     height:100px;
     margin: 5px;
 }
-.aqua {
+#aqua {
     width:135px;
     height:100px;
     margin: 5px;
 }
-.green {
+#green {
     width:135px;
     height:100px;
     margin: 5px;
 }
-.purple {
+#purple {
     width:135px;
     height:100px;
     margin: 5px;
